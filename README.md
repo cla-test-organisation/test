@@ -1,6 +1,4 @@
 Test!
 
-wtf
-
 Adjusted.
 
